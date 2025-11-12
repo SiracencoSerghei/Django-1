@@ -28,3 +28,8 @@ python manage.py changepassword <your_user_name>
 python manage.py makemigrations
 ```
 
+### for applying migrations:
+
+```
+python manage.py migrate
+```
